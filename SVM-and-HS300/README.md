@@ -32,11 +32,11 @@
 
 4. **收益情况**
 
-   ![k_svm(3)](https://github.com/Jensenberg/SVM-and-HS300/blob/master/data/k_svm(3).png)
+   ![k_svm(3)](https://github.com/Jensenberg/strategy-ML-DL/blob/master/SVM-and-HS300/data/k_svm(3).png)
 
    2015年1月至2018年10月考虑滑点的情况下的总回报，是1.66，最高值1.75左右，最大回撤26%，沪深300的总回报1.11，最大回撤47%。
 
-   ![k_svm(1)](https://github.com/Jensenberg/SVM-and-HS300/blob/master/data/k_svm(1).png)
+   ![k_svm(1)](https://github.com/Jensenberg/strategy-ML-DL/blob/master/SVM-and-HS300/data/k_svm(1).png)
 
    如果仅仅是预测后1天的涨跌，总回报是1.80，最高值为2.31，最大回撤34%；
 
@@ -95,13 +95,13 @@
 
    其余的相关系数的绝对值都小于0.5
 
-![attr_heatmap](https://github.com/Jensenberg/SVM-and-HS300/blob/master/data/attr_heatmap.png)
+![attr_heatmap](https://github.com/Jensenberg/strategy-ML-DL/blob/master/SVM-and-HS300/data/attr_heatmap.png)
 
 4. **收益情况**
 
    总回报是2.95，最大回撤9%，calmar比率3.33，远好于指数的表现。
 
-   ![v_svm](https://github.com/Jensenberg/SVM-and-HS300/blob/master/data/v_svm.png)
+   ![v_svm](https://github.com/Jensenberg/strategy-ML-DL/blob/master/SVM-and-HS300/data/v_svm.png)
 
 
 

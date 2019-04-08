@@ -71,19 +71,21 @@
 
    * **Residual Volatility**:
 
-     $0.74 \times Daily\;Standard\;Deviation + 0.16 \times Cumulative\;Range + 0.10 * History\;Sigma$
+     $0.74 \times Daily\ Standard\ Deviation + 0.16 \times Cumulative\ Range + 0.10 * History\ Sigma$
 
    * **Liquidity**:
 
-     $0.35\times Share\ Turnover(One\ Month) + 0.35 \times Average\; Share\; Turnover\; (Trailing\;3 \;Months) + 0.3 \times Average\; Share\; Turnover\; (Trailing\;12 \;Months) $
+     $0.35\times Share\ Turnover(One\ Month) + 0.35 \times Average\ Share\ Turnover\ (Trailing\ 3\ Months) $
+
+     $+ 0.3 \times Average\ Share\ Turnover\ (Trailing\12\ Months) ​$
 
    * **Earning Yield**:
 
-     $0.68 \times Predicted \; Earnings \; to \; Price + 0.21 \times Cash \; Earnings \; to \; Price + 0.11 \times Trailing \; Earing \; to \; Price​$
+     $0.68 \times Predicted \ Earnings \ to \ Price + 0.21 \times Cash \ Earnings \ to \ Price + 0.11 \times Trailing \ Earing \ to \ Price$
 
    * **Leverage**
 
-     $0.38 \times Market \; Leverage + 0.35 \times Debt \; to \; Asset + 0.27 \times \ Book \; Leverage$
+     $0.38 \times Market \ Leverage + 0.35 \times Debt \ to \ Asset + 0.27 \times \ Book \ Leverage​$
 
 2. **算法**
 

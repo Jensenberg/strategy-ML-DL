@@ -63,25 +63,25 @@
 
 （1）**Logistic回归**
 
-![](https://github.com/Jensenberg/-FNN-LSTM-/blob/master/nav_lr.png)
+![](https://github.com/Jensenbergstrategy-ML-DL/blob/master/cu-FNN-LSTM/nav_lr.png)
 
 （2）**支持向量机**
 
-![](https://github.com/Jensenberg/-FNN-LSTM-/blob/master/nav_svc.png)
+![](https://github.com/Jensenberg/strategy-ML-DL/blob/master/cu-FNN-LSTM/nav_svc.png)
 
 （3）**随机森林**
 
-![](https://github.com/Jensenberg/-FNN-LSTM-/blob/master/nav_rf.png)
+![](https://github.com/Jensenberg/strategy-ML-DL/blob/master/cu-FNN-LSTM/nav_rf.png)
 
 （4）**FNN**
 
-![](https://github.com/Jensenberg/-FNN-LSTM-/blob/master/nav_fnn.png)
+![](https://github.com/Jensenberg/strategy-ML-DL/blob/master/cu-FNN-LSTM/nav_fnn.png)
 
 （5）**LSTM**
 
-![](https://github.com/Jensenberg/-FNN-LSTM-/blob/master/nav_lstm(classification).png)
+![](https://github.com/Jensenberg/strategy-ML-DL/blob/master/cu-FNN-LSTM/nav_lstm(classification).png)
 
-![](https://github.com/Jensenberg/-FNN-LSTM-/blob/master/nav_lstm(regression).png)
+![](https://github.com/Jensenberg/strategy-ML-DL/blob/master/cu-FNN-LSTM/nav_lstm(regression).png)
 
 （6）**支持向量机在其他品种的运用**
 

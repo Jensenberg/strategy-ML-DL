@@ -75,13 +75,9 @@
 
    * **Liquidity**:
 
-     $0.35\times Share\ Turnover(One\ Month) + 0.35 \times Average\ Share\ Turnover\ (Trailing\ 3\ Months)$ 
+     $0.35\times Share\ Turnover(One\ Month) + 0.35 \times Average\ Share\ Turnover\ (Trailing\ 3\ Months)$ 
 
-<<<<<<< HEAD
-     $+\ 0.3 \times Average\ Share\ Turnover\ (Trailing\ 12\ Months) ​$
-=======
-     $+ 0.3 \times Average\ Share\ Turnover\ (Trailing\ 12\ Months) $
->>>>>>> 2b5517ccf3242ffcbb7348f60fe4aa793f668101
+      $+\ 0.3 \times Average\ Share\ Turnover\ (Trailing\ 12\ Months) $
 
    * **Earning Yield**:
 
@@ -89,7 +85,7 @@
 
    * **Leverage**
 
-     $0.38 \times Market \ Leverage + 0.35 \times Debt \ to \ Asset + 0.27 \times \ Book \ Leverage​$
+     $0.38 \times Market \ Leverage + 0.35 \times Debt \ to \ Asset + 0.27 \times \ Book \ Leverage$
 
 2. **算法**
 

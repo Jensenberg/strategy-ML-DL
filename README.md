@@ -75,7 +75,7 @@
 
    * **Liquidity**:
 
-     $0.35\times Share Turnover(One Month) + 0.35 \times Average\; Share\; Turnover\; (Trailing\;3 \;Months) + 0.3 \times Average\; Share\; Turnover\; (Trailing\;12 \;Months) $
+     $0.35\times Share\ Turnover(One\ Month) + 0.35 \times Average\; Share\; Turnover\; (Trailing\;3 \;Months) + 0.3 \times Average\; Share\; Turnover\; (Trailing\;12 \;Months) $
 
    * **Earning Yield**:
 

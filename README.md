@@ -21,7 +21,7 @@
 
    - **roe_ttm**：最近12个月净资产收益率
 
-   * **roe_growth **：净资产收益率增长率
+   * **roe_growth**：净资产收益率增长率
 
    * **ebit2ev**：企业价值乘数
 
@@ -75,7 +75,7 @@
 
    * **Liquidity**:
 
-     $0.35\times Share\; Turnover\;(One Month) + 0.35 \times Average\; Share\; Turnover\; (Trailing\;3 \;Months) + 0.3 \times Average\; Share\; Turnover\; (Trailing\;12 \;Months) $
+     $0.35\times Share Turnover(One Month) + 0.35 \times Average\; Share\; Turnover\; (Trailing\;3 \;Months) + 0.3 \times Average\; Share\; Turnover\; (Trailing\;12 \;Months) $
 
    * **Earning Yield**:
 

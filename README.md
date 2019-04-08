@@ -67,7 +67,7 @@
 
    * **None-linear Size**: 
 
-     $Cube\; of\; Size​$
+     $Cube\ of\ Size​$
 
    * **Residual Volatility**:
 

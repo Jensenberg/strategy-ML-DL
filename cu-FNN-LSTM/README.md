@@ -63,7 +63,7 @@
 
 （1）**Logistic回归**
 
-![](https://github.com/Jensenbergstrategy-ML-DL/blob/master/cu-FNN-LSTM/nav_lr.png)
+![](https://github.com/Jensenberg/strategy-ML-DL/blob/master/cu-FNN-LSTM/nav_lr.png)
 
 （2）**支持向量机**
 
